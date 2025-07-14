@@ -1,0 +1,11 @@
+
+
+Business Class Seats:
+
+Economy Class Seats:
+8797578	Ali	12	100
+
+Student Class Seats:
+
+Cargo: 100/2000
+Revenue: $100000
